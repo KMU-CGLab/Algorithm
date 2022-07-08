@@ -8,4 +8,4 @@
 *.DS_Store
 
 ## ignore folder
-/.vscode/
+.vscode/
