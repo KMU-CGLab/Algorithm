@@ -1,0 +1,10 @@
+## ignore file
+
+## ignore extension
+*.txt
+*.exe
+*.zip
+*.DS_Store
+
+## ignore forder
+/.vscode
