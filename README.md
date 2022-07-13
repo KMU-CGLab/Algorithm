@@ -20,11 +20,21 @@
 ## **📅 일정표 (매주 4문제, 58주차 완료)**
 
 | |1|2|3|
-|:-:|:-:|:-:|:-:|
-|1일차()|[SONY]()|[seunggukjang]()|[DANA]()|
+|:----|:-:|:-:|:-:|
+|1일차(완주하지 못한 선수)|[SONY](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
+|2일차(폰켓몬)|[SONY](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
+|(전화번호 목록)|[SONY](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
+|3일차(위장)|[SONY]()|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
+
+### 프로그래머스
+
+- [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+- [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 
 ------
 
