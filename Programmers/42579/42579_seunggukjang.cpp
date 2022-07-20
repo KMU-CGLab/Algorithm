@@ -50,6 +50,10 @@ vector<int> solution(vector<string> genres, vector<int> plays) {
             {
                 answer.push_back(ids[i].second);
             }
+        else
+        {
+            answer.push_back(ids[0].second);
+        }
     }
     return answer;
 }
