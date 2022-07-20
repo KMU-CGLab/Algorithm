@@ -24,7 +24,10 @@
 |1일차(완주하지 못한 선수)|[SONY](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
 |2일차(폰켓몬)|[SONY](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
 |(전화번호 목록)|[SONY](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
-|3일차(위장)|[SONY]()|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
+|3일차(위장)|[SONY](Programmers/42578/42578_Sonny.cpp)|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
+|4일차(베스트앨범)|[SONY](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
+|5일차(같은 숫자는 싫어)|[SONY](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
+|(기능개발)|[SONY](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
@@ -35,6 +38,8 @@
 - [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
-
+- [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 ------
 
