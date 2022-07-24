@@ -28,6 +28,7 @@
 |4일차(베스트앨범)|[SONY](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
 |5일차(같은 숫자는 싫어)|[SONY](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
 |(기능개발)|[SONY](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
+|6일차(프린터)|[SONY](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
@@ -41,5 +42,7 @@
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
+- [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+
 ------
 
