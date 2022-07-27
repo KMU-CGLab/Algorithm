@@ -46,10 +46,12 @@ vector<int> solution(vector<string> genres, vector<int> plays) {
         auto ids = hash.at(genreName.first);
         int idsCount = ids.size();
         if (idsCount >= 2)
+        {
             for (int i = 0; i < 2; i++)
             {
                 answer.push_back(ids[i].second);
             }
+        }
         else
         {
             answer.push_back(ids[0].second);

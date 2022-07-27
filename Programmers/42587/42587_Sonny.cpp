@@ -50,7 +50,7 @@ int solution(vector<int> priorities, int location)
         int id = (*i).first;
 
         if(id == location)
-            answer = number; 
+            answer = number;
         number++;
     }
 
