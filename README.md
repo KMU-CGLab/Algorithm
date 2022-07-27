@@ -17,7 +17,7 @@
 
 문제별로 폴더를 만들고 소스 파일 이름을 문제_이름.cpp로 업로드합니다.
 
-## **📅 일정표 (매주 4문제, 58주차 완료)**
+## **📅 일정표 **
 
 | |1|2|3|
 |:----|:-:|:-:|:-:|
@@ -29,6 +29,7 @@
 |5일차(같은 숫자는 싫어)|[SONY](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
 |(기능개발)|[SONY](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
 |6일차(프린터)|[SONY](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
+|7일차(프린터)|[SONY](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
@@ -43,6 +44,7 @@
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+- [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 
 ------
 
