@@ -10,6 +10,7 @@ int solution(vector<int> priorities, int location) {
     int answer = 1;
     int count = priorities.size();
     int local = priorities[location];
+    //현재 찾는 것(local) 보다 크거나 같은 priority를 저장
     vector<int> bigs;
     for (int i = 0; i < count; i++)
     {
@@ -18,9 +19,10 @@ int solution(vector<int> priorities, int location) {
             bigs.push_back(priorities[i]);
         }
     }
+    //정렬
     sort(bigs.begin(), bigs.end(), cmp);
-    
-    
+    //[1,2,2,3]
+    //circular queue
     for (int i = 0; i < priorities.size(); i++)
     {
         int big = bigs.back();
