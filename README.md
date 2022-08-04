@@ -12,6 +12,12 @@
 3. 번갈아가면서 문제의 해답을 숙지한 후 팀원에게 가르쳐줍니다.
 4. 터득한 알고리즘을 바탕으로 코드를 만들어서 제작후 Pull Request합니다.
 
+### 👪 참여인원
+
+[Sonny](https://github.com/SonJunHyuck) /
+[seunggukjang](https://github.com/seunggukjang) /
+[DANA](https://github.com/danakim1019)
+
 
 ### 🏁 코드 규칙
 
@@ -21,15 +27,16 @@
 
 | |1|2|3|
 |:----|:-:|:-:|:-:|
-|1일차(완주하지 못한 선수)|[SONY](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
-|2일차(폰켓몬)|[SONY](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
-|(전화번호 목록)|[SONY](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
-|3일차(위장)|[SONY](Programmers/42578/42578_Sonny.cpp)|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
-|4일차(베스트앨범)|[SONY](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
-|5일차(같은 숫자는 싫어)|[SONY](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
-|(기능개발)|[SONY](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
-|6일차(프린터)|[SONY](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
-|7일차(프린터)|[SONY](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
+|1일차(완주하지 못한 선수)|[Sonny](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
+|2일차(폰켓몬)|[Sonny](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
+|2일차(전화번호 목록)|[Sonny](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
+|3일차(위장)|[Sonny](Programmers/42578/42578_Sonny.cpp)|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
+|4일차(베스트앨범)|[Sonny](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
+|5일차(같은 숫자는 싫어)|[Sonny](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
+|5일차(기능개발)|[Sonny](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
+|6일차(프린터)|[Sonny](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
+|7일차(다리를 지나는 트럭)|[Sonny](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
+|8일차(주식가격)|[Sonny](Programmers/42584/42584_Sonny.cpp)|[seunggukjang](Programmers/42584/42584_seunggukjang.cpp)|[DANA](Programmers/42584/42584_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
@@ -45,6 +52,7 @@
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 
 ------
 
