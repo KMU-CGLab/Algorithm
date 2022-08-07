@@ -37,7 +37,7 @@
 |6일차(프린터)|[Sonny](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
 |7일차(다리를 지나는 트럭)|[Sonny](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
 |8일차(주식가격)|[Sonny](Programmers/42584/42584_Sonny.cpp)|[seunggukjang](Programmers/42584/42584_seunggukjang.cpp)|[DANA](Programmers/42584/42584_DANA.cpp)|
-
+|9일차(올바른 괄호)|[Sonny](Programmers/12909/12909_Sonny.cpp)|[seunggukjang](Programmers/12909/12909_seunggukjang.cpp)|[DANA](Programmers/12909/12909_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -53,6 +53,7 @@
 - [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 
 ------
 
