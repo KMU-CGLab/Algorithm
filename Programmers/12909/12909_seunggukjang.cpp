@@ -5,6 +5,7 @@
 bool solution(const char* s) {
     bool answer = true;
     int i = 0;
+
     while (*s == '(' || *s == ')')
     {
         if (*s == '(')
