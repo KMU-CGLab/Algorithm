@@ -40,6 +40,7 @@
 |9일차(올바른 괄호)|[Sonny](Programmers/12909/12909_Sonny.cpp)|[seunggukjang](Programmers/12909/12909_seunggukjang.cpp)|[DANA](Programmers/12909/12909_DANA.cpp)|
 |10일차(더 맵게)|[Sonny](Programmers/42626/42626_Sonny.cpp)|[seunggukjang](Programmers/42626/42626_seunggukjang.cpp)|[DANA](Programmers/42626/42626_DANA.cpp)|
 |11일차(디스크 컨트롤러)|[Sonny](Programmers/42627/42627_Sonny.cpp)|[seunggukjang](Programmers/42627/42627_seunggukjang.cpp)|[DANA](Programmers/42627/42627_DANA.cpp)|
+|12일차(이중우선순위큐)|[Sonny](Programmers/42628/42628_Sonny.cpp)|[seunggukjang](Programmers/42628/42628_seunggukjang.cpp)|[DANA](Programmers/42628/42628_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -58,6 +59,7 @@
 - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
 - [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
+- [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
 ------
 
