@@ -1,18 +1,17 @@
 #include <string>
 #include <vector>
-#include <queue>
 #include <algorithm>
 #include <sstream>
-
+#include <iostream>
 using namespace std;
-bool lessF(int a, int b)
+
+bool smaller(int a, int b)
 {
     return a > b;
 }
 vector<int> solution(vector<string> operations) {
     vector<int> answer;
-    //deque<int> D_Q;
-    vector<int> sol;
+    vector<int> dq;
     int count = operations.size();
     for (int i = 0; i < count; i++)
     {
@@ -23,25 +22,31 @@ vector<int> solution(vector<string> operations) {
             std::string str = operations[i].substr(2, stringSize - 1);
             std::stringstream ssInt(str);
             ssInt >> number;
-            sol.push_back(number);
-            sort(sol.begin(), sol.end(), lessF);
+            dq.push_back(number);
+            sort(dq.begin(), dq.end(), smaller);
         }
-        else if (!sol.empty())
+        else if (!dq.empty())
         {
             if (operations[i] == "D -1")
             {
-                if (sol.begin() == sol.end())
-                    sol.erase(sol.begin());
-                else
-                    sol.erase(sol.end() - 1);
+                dq.erase(dq.end()-1);
             }
             else if (operations[i] == "D 1")
             {
-                sol.erase(sol.begin());
+                dq.erase(dq.begin());
             }
         }
     }
-    answer.push_back(sol.front());
-    answer.push_back(sol.back());
+    
+    if (!dq.empty())
+    {
+        answer.push_back(dq.front());
+        answer.push_back(dq.back());
+    }
+    else
+    {
+        answer.push_back(0);
+        answer.push_back(0);
+    }
     return answer;
 }
