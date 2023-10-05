@@ -42,6 +42,7 @@
 |11일차(디스크 컨트롤러)|[Sonny](Programmers/42627/42627_Sonny.cpp)|[seunggukjang](Programmers/42627/42627_seunggukjang.cpp)|[DANA](Programmers/42627/42627_DANA.cpp)|
 |12일차(이중우선순위큐)|[Sonny](Programmers/42628/42628_Sonny.cpp)|[seunggukjang](Programmers/42628/42628_seunggukjang.cpp)|[DANA](Programmers/42628/42628_DANA.cpp)|
 |13일차(K번째수)|[Sonny](Programmers/42748/42748_Sonny.cpp)|[seunggukjang](Programmers/42748/42748_seunggukjang.cpp)|[DANA](Programmers/42748/42748_DANA.cpp)|
+|일차(가장 큰 수)|[]()|[]()|[DANA](Programmers/42746/42746_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -62,6 +63,7 @@
 - [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
+- [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 
 ------
 
