@@ -43,6 +43,7 @@
 |12일차(이중우선순위큐)|[Sonny](Programmers/42628/42628_Sonny.cpp)|[seunggukjang](Programmers/42628/42628_seunggukjang.cpp)|[DANA](Programmers/42628/42628_DANA.cpp)|
 |13일차(K번째수)|[Sonny](Programmers/42748/42748_Sonny.cpp)|[seunggukjang](Programmers/42748/42748_seunggukjang.cpp)|[DANA](Programmers/42748/42748_DANA.cpp)|
 |일차(가장 큰 수)|[]()|[]()|[DANA](Programmers/42746/42746_DANA.cpp)|
+|일차(H-Index)|[]()|[]()|[DANA](Programmers/42747/42747_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -64,6 +65,6 @@
 - [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 - [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
-
+- [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 ------
 
