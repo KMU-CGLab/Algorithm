@@ -25,26 +25,27 @@
 
 ## **📅 일정표 **
 
-| |1|2|3|
-|:----|:-:|:-:|:-:|
-|1일차(완주하지 못한 선수)|[Sonny](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
-|2일차(폰켓몬)|[Sonny](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
-|2일차(전화번호 목록)|[Sonny](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
-|3일차(위장)|[Sonny](Programmers/42578/42578_Sonny.cpp)|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
-|4일차(베스트앨범)|[Sonny](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
-|5일차(같은 숫자는 싫어)|[Sonny](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
-|5일차(기능개발)|[Sonny](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
-|6일차(프린터)|[Sonny](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
-|7일차(다리를 지나는 트럭)|[Sonny](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
-|8일차(주식가격)|[Sonny](Programmers/42584/42584_Sonny.cpp)|[seunggukjang](Programmers/42584/42584_seunggukjang.cpp)|[DANA](Programmers/42584/42584_DANA.cpp)|
-|9일차(올바른 괄호)|[Sonny](Programmers/12909/12909_Sonny.cpp)|[seunggukjang](Programmers/12909/12909_seunggukjang.cpp)|[DANA](Programmers/12909/12909_DANA.cpp)|
-|10일차(더 맵게)|[Sonny](Programmers/42626/42626_Sonny.cpp)|[seunggukjang](Programmers/42626/42626_seunggukjang.cpp)|[DANA](Programmers/42626/42626_DANA.cpp)|
-|11일차(디스크 컨트롤러)|[Sonny](Programmers/42627/42627_Sonny.cpp)|[seunggukjang](Programmers/42627/42627_seunggukjang.cpp)|[DANA](Programmers/42627/42627_DANA.cpp)|
-|12일차(이중우선순위큐)|[Sonny](Programmers/42628/42628_Sonny.cpp)|[seunggukjang](Programmers/42628/42628_seunggukjang.cpp)|[DANA](Programmers/42628/42628_DANA.cpp)|
-|13일차(K번째수)|[Sonny](Programmers/42748/42748_Sonny.cpp)|[seunggukjang](Programmers/42748/42748_seunggukjang.cpp)|[DANA](Programmers/42748/42748_DANA.cpp)|
-|일차(가장 큰 수)|[]()|[]()|[DANA](Programmers/42746/42746_DANA.cpp)|
-|일차(H-Index)|[]()|[]()|[DANA](Programmers/42747/42747_DANA.cpp)|
-|일차(최소직사각형)|[]()|[]()|[DANA](Programmers/86491/86491_DANA.cpp)|
+| | |1|2|3|
+|:----|:-:|:-:|:-:|:-:|
+|1일차(완주하지 못한 선수)|LV.1|[Sonny](Programmers/42576/42576_Sonny.cpp)|[seunggukjang](Programmers/42576/42576_seunggukjang.cpp)|[DANA](Programmers/42576/42576_DANA.cpp)|
+|2일차(폰켓몬)|LV.1|[Sonny](Programmers/1845/1845_Sonny.cpp)|[seunggukjang](Programmers/1845/1845_seunggukjang.cpp)|[DANA](Programmers/1845/1845_DANA.cpp)|
+|2일차(전화번호 목록)|LV.2|[Sonny](Programmers/42577/42577_Sonny.cpp)|[seunggukjang](Programmers/42577/42577_seunggukjang.cpp)|[DANA](Programmers/42577/42577_DANA.cpp)|
+|3일차(위장)|LV.2|[Sonny](Programmers/42578/42578_Sonny.cpp)|[seunggukjang](Programmers/42578/42578_seunggukjang.cpp)|[DANA](Programmers/42578/42578_DANA.cpp)|
+|4일차(베스트앨범)|LV.3|[Sonny](Programmers/42579/42579_Sonny.cpp)|[seunggukjang](Programmers/42579/42579_seunggukjang.cpp)|[DANA](Programmers/42579/42579_DANA.cpp)|
+|5일차(같은 숫자는 싫어)|LV.1|[Sonny](Programmers/12906/12906_Sonny.cpp)|[seunggukjang](Programmers/12906/12906_seunggukjang.cpp)|[DANA](Programmers/12906/12906_DANA.cpp)|
+|5일차(기능개발)|LV.2|[Sonny](Programmers/42586/42586_Sonny.cpp)|[seunggukjang](Programmers/42586/42586_seunggukjang.cpp)|[DANA](Programmers/42586/42586_DANA.cpp)|
+|6일차(프로세스)|LV.2|[Sonny](Programmers/42587/42587_Sonny.cpp)|[seunggukjang](Programmers/42587/42587_seunggukjang.cpp)|[DANA](Programmers/42587/42587_DANA.cpp)|
+|7일차(다리를 지나는 트럭)|LV.2|[Sonny](Programmers/42583/42583_Sonny.cpp)|[seunggukjang](Programmers/42583/42583_seunggukjang.cpp)|[DANA](Programmers/42583/42583_DANA.cpp)|
+|8일차(주식가격)|LV.2|[Sonny](Programmers/42584/42584_Sonny.cpp)|[seunggukjang](Programmers/42584/42584_seunggukjang.cpp)|[DANA](Programmers/42584/42584_DANA.cpp)|
+|9일차(올바른 괄호)|LV.2|[Sonny](Programmers/12909/12909_Sonny.cpp)|[seunggukjang](Programmers/12909/12909_seunggukjang.cpp)|[DANA](Programmers/12909/12909_DANA.cpp)|
+|10일차(더 맵게)|LV.2|[Sonny](Programmers/42626/42626_Sonny.cpp)|[seunggukjang](Programmers/42626/42626_seunggukjang.cpp)|[DANA](Programmers/42626/42626_DANA.cpp)|
+|11일차(디스크 컨트롤러)|LV.3|[Sonny](Programmers/42627/42627_Sonny.cpp)|[seunggukjang](Programmers/42627/42627_seunggukjang.cpp)|[DANA](Programmers/42627/42627_DANA.cpp)|
+|12일차(이중우선순위큐)|LV.3|[Sonny](Programmers/42628/42628_Sonny.cpp)|[seunggukjang](Programmers/42628/42628_seunggukjang.cpp)|[DANA](Programmers/42628/42628_DANA.cpp)|
+|13일차(K번째수)|LV.1|[Sonny](Programmers/42748/42748_Sonny.cpp)|[seunggukjang](Programmers/42748/42748_seunggukjang.cpp)|[DANA](Programmers/42748/42748_DANA.cpp)|
+|일차(가장 큰 수)|LV.2|[]()|[]()|[DANA](Programmers/42746/42746_DANA.cpp)|
+|일차(H-Index)|LV.2|[]()|[]()|[DANA](Programmers/42747/42747_DANA.cpp)|
+|일차(최소직사각형)|LV.1|[]()|[]()|[DANA](Programmers/86491/86491_DANA.cpp)|
+|일차(모의고사)|LV.1|[]()|[]()|[DANA](Programmers/42840/42840_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -57,7 +58,7 @@
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
-- [프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
+- [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 - [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
@@ -68,5 +69,6 @@
 - [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 ------
 
