@@ -47,8 +47,10 @@
 |일차(최소직사각형)|LV.1|[]()|[]()|[DANA](Programmers/86491/86491_DANA.cpp)|
 |일차(모의고사)|LV.1|[]()|[]()|[DANA](Programmers/42840/42840_DANA.cpp)|
 |일차(소수 찾기)|LV.1|[]()|[]()|[DANA](Programmers/42839/42839_DANA.cpp)|
-|일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_Sonny.cpp)|[]()|[]()|
-|일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_Sonny.cpp)|[]()|[]()|
+|일차(카펫)|LV.2|[]()|[]()|[DANA](Programmers/42842/42842_DANA.cpp)|
+|일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_sonny.cpp)|[]()|[]()|
+|일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[]()|
+|일차(숫자 짝궁)|LV.1|[Sonny](Programmers/131128/131128_sonny.cpp)|[]()|[]()|
 
 ## ** 🖱 문제 목록**
 
@@ -74,7 +76,9 @@
 - [최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 - [모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 - [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+- [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+- [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 ------
 
