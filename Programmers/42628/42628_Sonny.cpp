@@ -4,29 +4,29 @@
 
 using namespace std;
 
-void insert(vector<int> *v, int number)
+void insert(vector<int>& v, int number)
 {
     // vector에 아무것도 없으면 push back
-    if (v->size() == 0)
+    if (v.size() == 0)
     {
-        v->push_back(number);
+        v.push_back(number);
         return;
     }
 
-    // vector는 오름차순으로 정렬할 것이며, begin은 min, --end는 가장 큰 값
-    auto i = v->begin();
-    for (; i != v->end(); i++)
+    // vector는 오름차순으로 정렬할 것이며, begin은 min, end는 가장 큰 값
+    auto i = v.begin();
+    for (; i != v.end(); i++)
     {
         if ((*i) > number)
         {
-            v->insert(i, number);
+            v.insert(i, number);
             break;
         }
     }
 
     // break를 걸어뒀기 때문에, vector를 끝까지 순회할 동안 number보다 큰 값이 없으면 number가 제일 큰 값
-    if(i == v->end())
-        v->push_back(number);
+    if(i == v.end())
+        v.push_back(number);
 }
 
 vector<int> solution(vector<string> operations)
@@ -43,7 +43,7 @@ vector<int> solution(vector<string> operations)
         if (operation == "I")
         {
             //std::cout << "insert : " << number << std::endl;
-            insert(&answer, number);
+            insert(answer, number);
         }
         // delete
         else if (operation == "D")

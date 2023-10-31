@@ -24,11 +24,6 @@ bool compare_stack_target(vector<int> stack, int target)
     return sum == target;
 }
 
-// DFS로 구현
-void get_target_number(vector<int> numbers, int target, int sum, int index, int& out_answer)
-{
-}
-
 int solution(vector<int> numbers, int target) 
 {
     int answer = 0;
@@ -46,6 +41,7 @@ int solution(vector<int> numbers, int target)
         int level = count + 1;
         stack.pop_back();
 
+        // 숫자를 전부 소비한 상태
         if(level >= numbers.size())
         {
             if(num == target)
@@ -54,8 +50,10 @@ int solution(vector<int> numbers, int target)
             continue;
         }
 
+        // 하위 노드로
         count++;
 
+        // 현재값 +, - num으로 두개의 노드 스택으로 (+를 나중으로 해야, +가 먼저)
         stack.push_back( {num - numbers[count], count} );
         stack.push_back( {num + numbers[count], count} );
     }

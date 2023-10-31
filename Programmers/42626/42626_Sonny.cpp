@@ -25,17 +25,21 @@ int solution(vector<int> scoville, int K)
 
     while(pq.top() < K)
     {
+        // K를 찾으려 했지만, 다 섞어도 못찾은 경우는 -1
         if(pq.size() < 2)
         {
             answer = -1;
             break;
         }
 
+        // 가장 안매운거 2개 꺼내기
         int old1 = pq.top(); pq.pop();
         int old2 = pq.top(); pq.pop();
         
+        // 주어진 공식
         int new_s = old1 + old2 * 2;
 
+        // 새롭게 매운 음식 추가
         pq.push(new_s);
 
         answer++;
