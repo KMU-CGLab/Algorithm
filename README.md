@@ -51,7 +51,8 @@
 |일차(피로도)|LV.2|[]()|[]()|[DANA](Programmers/87946/87946_DANA.cpp)|
 |일차(전력망을 둘로 나누기)|LV.2|[Sonny](Programmers/86971/86971_sonny_BFS.cpp)|[]()|[DANA](Programmers/86971/86971_DANA.cpp)|
 |일차(모음사전)|LV.2|[]()|[]()|[DANA](Programmers/84512/84512_DANA.cpp)|
-|일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_sonny.cpp)|[]()|[]()|
+|일차(체육복)|LV.1|[]()|[]()|[DANA](Programmers/42862/42862_DANA.cpp)|
+|일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_sonny.cpp)|[]()|[DANA](Programmers/43165/43165_DANA.cpp)|
 |일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[]()|
 |일차(숫자 짝궁)|LV.1|[Sonny](Programmers/131128/131128_sonny.cpp)|[]()|[]()|
 |일차(다음 큰 숫자)|LV.2|[Sonny](Programmers/12911/12911_sonny.cpp)|[]()|[]()|
@@ -86,10 +87,12 @@
 - [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+
 ------
 
