@@ -11,7 +11,7 @@ vector<int> solution(int n)
     vector<int> answer;
     vector<vector<int>> pyramid;
 
-    // 밑으로
+    // 0으로 grid 채우기
     for (int row = 0; row < n; ++row)
     {
         pyramid.push_back(vector<int>());
@@ -21,6 +21,7 @@ vector<int> solution(int n)
         }
     }
     
+    // 삼각형 달펭이 체우기
     int number = 0;
     int counter = 0;
     int switcher = n;
@@ -28,7 +29,7 @@ vector<int> solution(int n)
     int col = 0;
     while (1)
     {
-        // flag 1
+        // 남쪽
         for (int counter = 0; counter < switcher ; counter++)
         {
             row++;
@@ -42,7 +43,7 @@ vector<int> solution(int n)
             break;
         }
 
-        // flag 2
+        // 동쪽
         for (int counter = 0; counter < switcher ; counter++)
         {
             col++;
@@ -56,7 +57,7 @@ vector<int> solution(int n)
             break;
         }
 
-        // flag 3
+        // 북서쪽
         for(int counter = 0; counter < switcher ; counter++)
         {
             --col;
