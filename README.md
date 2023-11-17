@@ -53,11 +53,13 @@
 |일차(모음사전)|LV.2|[]()|[]()|[DANA](Programmers/84512/84512_DANA.cpp)|
 |일차(체육복)|LV.1|[]()|[]()|[DANA](Programmers/42862/42862_DANA.cpp)|
 |일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_sonny.cpp)|[]()|[DANA](Programmers/43165/43165_DANA.cpp)|
+|일차(네트워크)|LV.3|[]()|[]()|[DANA](Programmers/43162/43162_DANA.cpp)|
 |일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[]()|
 |일차(숫자 짝궁)|LV.1|[Sonny](Programmers/131128/131128_sonny.cpp)|[]()|[]()|
 |일차(다음 큰 숫자)|LV.2|[Sonny](Programmers/12911/12911_sonny.cpp)|[]()|[]()|
 |일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[]()|
-|일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[]()|
+|일차(삼각 달팽이)|LV.2|[Sonny](Programmers/68645/68645_sonny.cpp)|[]()|[]()|
+|일차(괄호 변환)|LV.2|[Sonny](Programmers/60058/60058_sonny.cpp)|[]()|[]()|
 
 ## ** 🖱 문제 목록**
 
@@ -89,6 +91,7 @@
 - [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
 - [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+- [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 - [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
 - [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
