@@ -54,7 +54,7 @@
 |일차(체육복)|LV.1|[]()|[]()|[DANA](Programmers/42862/42862_DANA.cpp)|
 |일차(타겟 넘버)|LV.2|[Sonny](Programmers/43165/43165_sonny.cpp)|[]()|[DANA](Programmers/43165/43165_DANA.cpp)|
 |일차(네트워크)|LV.3|[]()|[]()|[DANA](Programmers/43162/43162_DANA.cpp)|
-|일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[]()|
+|일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[DANA](Programmers/1844/1884_DANA.cpp)|
 |일차(숫자 짝궁)|LV.1|[Sonny](Programmers/131128/131128_sonny.cpp)|[]()|[]()|
 |일차(다음 큰 숫자)|LV.2|[Sonny](Programmers/12911/12911_sonny.cpp)|[]()|[]()|
 |일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[]()|
