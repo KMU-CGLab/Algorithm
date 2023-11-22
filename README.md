@@ -60,6 +60,7 @@
 |일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[]()|
 |일차(삼각 달팽이)|LV.2|[Sonny](Programmers/68645/68645_sonny.cpp)|[]()|[]()|
 |일차(괄호 변환)|LV.2|[Sonny](Programmers/60058/60058_sonny.cpp)|[]()|[]()|
+|일차(2 x n 타일링)|LV.2|[]()|[]()|[DANA](Programmers/12900/12900_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -96,6 +97,9 @@
 - [숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
 - [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 - [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
+- [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
+- [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
+- [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
 
 ------
 
