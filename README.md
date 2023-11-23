@@ -61,6 +61,8 @@
 |일차(삼각 달팽이)|LV.2|[Sonny](Programmers/68645/68645_sonny.cpp)|[]()|[]()|
 |일차(괄호 변환)|LV.2|[Sonny](Programmers/60058/60058_sonny.cpp)|[]()|[]()|
 |일차(2 x n 타일링)|LV.2|[]()|[]()|[DANA](Programmers/12900/12900_DANA.cpp)|
+|일차(JadenCase 문자열 만들기)|LV.2|[]()|[]()|[DANA](Programmers/12951/12951_DANA.cpp)|
+|일차(점프와 순간 이동)|LV.2|[]()|[]()|[DANA](Programmers/12980/12980_DANA.cpp)|
 
 ## ** 🖱 문제 목록**
 
@@ -100,6 +102,8 @@
 - [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)
 - [괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)
 - [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+- [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 
 ------
 
