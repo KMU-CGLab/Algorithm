@@ -57,7 +57,7 @@
 |일차(게임 맵 최단거리)|LV.2|[Sonny](Programmers/1844/1884_sonny.cpp)|[]()|[DANA](Programmers/1844/1884_DANA.cpp)|
 |일차(숫자 짝궁)|LV.1|[Sonny](Programmers/131128/131128_sonny.cpp)|[]()|[]()|
 |일차(다음 큰 숫자)|LV.2|[Sonny](Programmers/12911/12911_sonny.cpp)|[]()|[]()|
-|일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[]()|
+|일차(오픈채팅방)|LV.2|[Sonny](Programmers/42888/42888_sonny.cpp)|[]()|[DANA](Programmers/42888/42888_DANA.cpp)|
 |일차(삼각 달팽이)|LV.2|[Sonny](Programmers/68645/68645_sonny.cpp)|[]()|[]()|
 |일차(괄호 변환)|LV.2|[Sonny](Programmers/60058/60058_sonny.cpp)|[]()|[]()|
 |일차(2 x n 타일링)|LV.2|[]()|[]()|[DANA](Programmers/12900/12900_DANA.cpp)|
