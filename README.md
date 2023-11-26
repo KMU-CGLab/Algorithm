@@ -64,6 +64,8 @@
 |일차(JadenCase 문자열 만들기)|LV.2|[]()|[]()|[DANA](Programmers/12951/12951_DANA.cpp)|
 |일차(점프와 순간 이동)|LV.2|[]()|[]()|[DANA](Programmers/12980/12980_DANA.cpp)|
 |일차(거리두기 확인하기)|LV.2|[]()|[]()|[DANA](Programmers/81302/81302_DANA.cpp)|
+|일차(이진 변환 반복하기)|LV.2|[]()|[]()|[DANA](Programmers/70129/70129_DANA.cpp)|
+
 
 ## ** 🖱 문제 목록**
 
@@ -106,6 +108,7 @@
 - [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)
 - [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)
+- [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 
 ------
 
