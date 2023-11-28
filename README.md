@@ -47,7 +47,7 @@
 |일차(최소직사각형)|LV.1|[]()|[]()|[DANA](Programmers/86491/86491_DANA.cpp)|
 |일차(모의고사)|LV.1|[]()|[]()|[DANA](Programmers/42840/42840_DANA.cpp)|
 |일차(소수 찾기)|LV.1|[]()|[]()|[DANA](Programmers/42839/42839_DANA.cpp)|
-|일차(카펫)|LV.2|[]()|[]()|[DANA](Programmers/42842/42842_DANA.cpp)|
+|일차(카펫)|LV.2|[Sonny](Programmers/42842/42842_sonny.cpp)|[]()|[DANA](Programmers/42842/42842_DANA.cpp)|
 |일차(피로도)|LV.2|[]()|[]()|[DANA](Programmers/87946/87946_DANA.cpp)|
 |일차(전력망을 둘로 나누기)|LV.2|[Sonny](Programmers/86971/86971_sonny_BFS.cpp)|[]()|[DANA](Programmers/86971/86971_DANA.cpp)|
 |일차(모음사전)|LV.2|[]()|[]()|[DANA](Programmers/84512/84512_DANA.cpp)|
@@ -67,9 +67,8 @@
 |일차(이진 변환 반복하기)|LV.2|[]()|[]()|[DANA](Programmers/70129/70129_DANA.cpp)|
 |일차(줄 서는 방법)|LV.2|[Sonny](Programmers/12936/12936_sonny.cpp)|[]()|[]()|
 |일차(무인도 여행)|LV.2|[]()|[]()|[DANA](Programmers/154540/154540_DANA.cpp)|
+|일차([3차] 압축)|LV.2|[]()|[]()|[DANA](Programmers/17684/17684_DANA.cpp)|
 
-
->>>>>>> origin/main
 
 ## ** 🖱 문제 목록**
 
@@ -115,6 +114,7 @@
 - [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
+- [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
  
 ------
 
