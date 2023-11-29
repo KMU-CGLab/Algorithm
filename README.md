@@ -68,6 +68,7 @@
 |일차(줄 서는 방법)|LV.2|[Sonny](Programmers/12936/12936_sonny.cpp)|[]()|[]()|
 |일차(무인도 여행)|LV.2|[]()|[]()|[DANA](Programmers/154540/154540_DANA.cpp)|
 |일차([3차] 압축)|LV.2|[]()|[]()|[DANA](Programmers/17684/17684_DANA.cpp)|
+|일차(구명 보트)|LV.2|[]()|[]()|[DANA](Programmers/42885/42885_DANA.cpp)|
 
 
 ## ** 🖱 문제 목록**
@@ -115,6 +116,7 @@
 - [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
 - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
+- [구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
  
 ------
 
