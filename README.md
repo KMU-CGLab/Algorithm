@@ -35,7 +35,9 @@
 |같은 숫자는 싫어|LV.1|12906|[Sonny](Programmers/1-50000/12906_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12906_seunggukjang.cpp)|[DANA](Programmers/1-50000/12906_DANA.cpp)|✅︎|
 |올바른 괄호|LV.2|12909|[Sonny](Programmers/1-50000/12909_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12909_seunggukjang.cpp)|[DANA](Programmers/1-50000/12909_DANA.cpp)|✅︎|
 |다음 큰 숫자|LV.2|12911|[Sonny](Programmers/1-50000/12911_sonny.cpp)|[]()|[]()|
+|멀리 뛰기|LV.2|12914|[Sonny](Programmers/1-50000/12914_sonny.cpp)|[]()|[]()|
 |줄 서는 방법|LV.2|12936|[Sonny](Programmers/1-50000/12936_sonny.cpp)|[]()|[]()|
+|최댓값과 최솟값|LV.2|12939|[]()|[]()|[DANA](Programmers/1-50000/12939_DANA.cpp)|
 |JadenCase 문자열 만들기|LV.2|12951|[]()|[]()|[DANA](Programmers/1-50000/12951_DANA.cpp)|
 |점프와 순간 이동|LV.2|12980|[]()|[]()|[DANA](Programmers/1-50000/12980_DANA.cpp)|
 |[3차] 압축|LV.2|17684|[]()|[]()|[DANA](Programmers/1-50000/17684_DANA.cpp)|
@@ -102,6 +104,8 @@
 - [위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 - [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
+- [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12914) 
+- [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939) 
 - [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)
 - [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 - [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
@@ -138,6 +142,7 @@
 - [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)
 - [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)
 - [구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+
  
 ### 50001~100000
 
