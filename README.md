@@ -36,10 +36,12 @@
 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|LV.2|12909|[Sonny](Programmers/1-50000/12909_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12909_seunggukjang.cpp)|[DANA](Programmers/1-50000/12909_DANA.cpp)|✅︎|
 |[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|LV.2|12911|[Sonny](Programmers/1-50000/12911_sonny.cpp)|[]()|[]()|
 |[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|LV.2|12914|[Sonny](Programmers/1-50000/12914_sonny.cpp)|[]()|[]()|
+|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|LV.2|12924|[Sonny](Programmers/1-50000/12924_sonny.cpp)|[]()|[]()|
 |[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|LV.2|12936|[Sonny](Programmers/1-50000/12936_sonny.cpp)|[]()|[]()|
 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|LV.2|12939|[]()|[]()|[DANA](Programmers/1-50000/12939_DANA.cpp)|
 |[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|LV.2|12946|[]()|[]()|[DANA](Programmers/1-50000/12946_DANA.cpp)|
 |[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|LV.2|12951|[]()|[]()|[DANA](Programmers/1-50000/12951_DANA.cpp)|
+|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV.2|12973|[]()|[]()|[DANA](Programmers/1-50000/12973_DANA.cpp)|
 |[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV.2|12980|[]()|[]()|[DANA](Programmers/1-50000/12980_DANA.cpp)|
 |[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|LV.2|17684|[]()|[]()|[DANA](Programmers/1-50000/17684_DANA.cpp)|
 |[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|LV.1|42576|[Sonny](Programmers/1-50000/42576_Sonny.cpp)|[seunggukjang](Programmers/1-50000/42576_seunggukjang.cpp)|[DANA](Programmers/1-50000/42576_DANA.cpp)|✅︎|
