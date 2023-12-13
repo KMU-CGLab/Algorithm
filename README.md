@@ -45,6 +45,7 @@
 |[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV.2|12973|[]()|[]()|[DANA](Programmers/1-50000/12973_DANA.cpp)|
 |[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV.2|12980|[]()|[]()|[DANA](Programmers/1-50000/12980_DANA.cpp)|
 |[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|LV.2|17684|[]()|[]()|[DANA](Programmers/1-50000/17684_DANA.cpp)|
+|[[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|LV.2|17686|[]()|[]()|[DANA](Programmers/1-50000/17686_DANA.cpp)|
 |[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|LV.1|42576|[Sonny](Programmers/1-50000/42576_Sonny.cpp)|[seunggukjang](Programmers/1-50000/42576_seunggukjang.cpp)|[DANA](Programmers/1-50000/42576_DANA.cpp)|✅︎|
 |[전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)|LV.2|42577|[Sonny](Programmers/1-50000/42577_Sonny.cpp)|[seunggukjang](Programmers/1-50000/42577_seunggukjang.cpp)|[DANA](Programmers/1-50000/42577_DANA.cpp)|✅︎|
 |[위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)|LV.2|42578|[Sonny](Programmers/1-50000/42578_Sonny.cpp)|[seunggukjang](Programmers/1-50000/42578_seunggukjang.cpp)|[DANA](Programmers/1-50000/42578_DANA.cpp)|✅︎|
@@ -91,6 +92,7 @@
 |문제 이름|LV|문제번호|1|2|3|해설|
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|
 |[숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|LV.1|131128|[Sonny](Programmers/100001-150000/131128_sonny.cpp)|[]()|[]()|
+|[등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)|LV.3|133500|[Sonny](Programmers/100001-150000/133500_sonny.cpp)|[]()|[]()|
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|LV.2|154540|[]()|[]()|[DANA](Programmers/100001-150000/154540_DANA.cpp)|
 
 
