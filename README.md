@@ -94,6 +94,7 @@
 |[숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|LV.1|131128|[Sonny](Programmers/100001-150000/131128_sonny.cpp)|[]()|[]()|
 |[등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)|LV.3|133500|[Sonny](Programmers/100001-150000/133500_sonny.cpp)|[]()|[]()|
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|LV.2|154540|[]()|[]()|[DANA](Programmers/100001-150000/154540_DANA.cpp)|
+|[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|LV.2|176962|[]()|[]()|[DANA](Programmers/100001-150000/176962_DANA.cpp)|
 
 
 ------
