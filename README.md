@@ -33,6 +33,7 @@
 |[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)|LV.1|1845|[Sonny](Programmers/1-50000/1845_Sonny.cpp)|[seunggukjang](Programmers/1-50000/1845_seunggukjang.cpp)|[DANA](Programmers/1-50000/1845_DANA.cpp)|✅︎|
 |[2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|LV.2|12900|[]()|[]()|[DANA](Programmers/1-50000/12900_DANA.cpp)|
 |[3 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12902)|LV.2|12902|[Sonny](Programmers/1-50000/12902_sonny.cpp)|[]()|[]()|
+|[가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|LV.3|12904|[Sonny](Programmers/1-50000/12904_sonny.cpp)|[]()|[]()|
 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|LV.1|12906|[Sonny](Programmers/1-50000/12906_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12906_seunggukjang.cpp)|[DANA](Programmers/1-50000/12906_DANA.cpp)|✅︎|
 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|LV.2|12909|[Sonny](Programmers/1-50000/12909_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12909_seunggukjang.cpp)|[DANA](Programmers/1-50000/12909_DANA.cpp)|✅︎|
 |[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|LV.2|12911|[Sonny](Programmers/1-50000/12911_sonny.cpp)|[]()|[]()|
