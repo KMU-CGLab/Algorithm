@@ -69,6 +69,8 @@
 |[큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|LV.2|42883|[Sonny](Programmers/1-50000/42883_sonny.cpp)|[]()|[DANA](Programmers/1-50000/42883_DANA.cpp)|
 |[구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|LV.2|42885|[]()|[]()|[DANA](Programmers/1-50000/42885_DANA.cpp)|
 |[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|LV.2|42888|[Sonny](Programmers/1-50000/42888_sonny.cpp)|[]()|[DANA](Programmers/1-50000/42888_DANA.cpp)|
+|[후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|LV.2|42890|[]()|[]()|[DANA](Programmers/1-50000/42890_DANA.cpp)|
+|[정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|LV.3|43105|[Sonny](Programmers/1-50000/43105_sonny.cpp)|[]()|[]()|
 |[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|LV.3|43162|[]()|[]()|[DANA](Programmers/1-50000/43162_DANA.cpp)|
 |[타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|LV.2|43165|[Sonny](Programmers/1-50000/43165_sonny.cpp)|[]()|[DANA](Programmers/1-50000/43165_DANA.cpp)|
 |[순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)|LV.3|49191|[Sonny](Programmers/1-50000/49191_sonny.cpp)|[]()|[]()|
