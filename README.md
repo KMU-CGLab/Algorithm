@@ -37,7 +37,7 @@
 |[같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)|LV.1|12906|[Sonny](Programmers/1-50000/12906_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12906_seunggukjang.cpp)|[DANA](Programmers/1-50000/12906_DANA.cpp)|✅︎|
 |[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|LV.2|12909|[Sonny](Programmers/1-50000/12909_Sonny.cpp)|[seunggukjang](Programmers/1-50000/12909_seunggukjang.cpp)|[DANA](Programmers/1-50000/12909_DANA.cpp)|✅︎|
 |[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|LV.2|12911|[Sonny](Programmers/1-50000/12911_sonny.cpp)|[]()|[]()|
-|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|LV.2|12914|[Sonny](Programmers/1-50000/12914_sonny.cpp)|[]()|[]()|
+|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|LV.2|12914|[Sonny](Programmers/1-50000/12914_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12914_DANA.cpp)|
 |[숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|LV.2|12923|[]()|[]()|[DANA](Programmers/1-50000/12923_DANA.cpp)|
 |[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|LV.2|12924|[Sonny](Programmers/1-50000/12924_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12924_DANA.cpp)|
 |[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|LV.2|12936|[Sonny](Programmers/1-50000/12936_sonny.cpp)|[]()|[]()|
