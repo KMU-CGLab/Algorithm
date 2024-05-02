@@ -42,7 +42,7 @@
 |[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|LV.2|12924|[Sonny](Programmers/1-50000/12924_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12924_DANA.cpp)|
 |[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|LV.2|12936|[Sonny](Programmers/1-50000/12936_sonny.cpp)|[]()|[]()|
 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|LV.2|12939|[Sonny](Programmers/1-50000/12939_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12939_DANA.cpp)|
-|[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|LV.2|12946|[]()|[]()|[DANA](Programmers/1-50000/12946_DANA.cpp)|
+|[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|LV.2|12946|[Sonny](Programmers/1-50000/12946_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12946_DANA.cpp)|
 |[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|LV.2|12951|[Sonny](Programmers/1-50000/12951_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12951_DANA.cpp)|
 |[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV.2|12973|[]()|[]()|[DANA](Programmers/1-50000/12973_DANA.cpp)|
 |[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV.2|12980|[]()|[]()|[DANA](Programmers/1-50000/12980_DANA.cpp)|
@@ -109,6 +109,7 @@
 |[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|LV.2|150369|[Sonny](Programmers/150001-200000/150369_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150369_DANA.cpp)|
 |[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|LV.1|150370|[Sonny](Programmers/150001-200000/150370_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150370_DANA.cpp)|
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|LV.2|154540|[]()|[]()|[DANA](Programmers/150001-200000/154540_DANA.cpp)|
+|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|LV.2|159993|[]()|[]()|[DANA](Programmers/150001-200000/159993_DANA.cpp)|
 |[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|LV.1|160585|[Sonny]()|[]()|[DANA](Programmers/150001-200000/160585_DANA.cpp)|
 |[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|LV.1|161990|[Sonny](Programmers/150001-200000/161990_sonny.cpp)|[]()|[]()|
 |[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|LV.2|176962|[]()|[]()|[DANA](Programmers/150001-200000/176962_DANA.cpp)|
