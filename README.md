@@ -44,6 +44,7 @@
 |[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|LV.2|12939|[Sonny](Programmers/1-50000/12939_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12939_DANA.cpp)|
 |[하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|LV.2|12946|[Sonny](Programmers/1-50000/12946_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12946_DANA.cpp)|
 |[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|LV.2|12951|[Sonny](Programmers/1-50000/12951_sonny.cpp)|[]()|[DANA](Programmers/1-50000/12951_DANA.cpp)|
+|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|LV.2|12953|[Sonny](Programmers/1-50000/12953_sonny.cpp)|[]()|[]()|
 |[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV.2|12973|[]()|[]()|[DANA](Programmers/1-50000/12973_DANA.cpp)|
 |[점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV.2|12980|[]()|[]()|[DANA](Programmers/1-50000/12980_DANA.cpp)|
 |[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|LV.2|12981|[Sonny](Programmers/1-50000/12981_sonny.cpp)|[]()|[]()|
@@ -84,6 +85,7 @@
 |문제 이름|LV|문제번호|1|2|3|해설|
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|
 |[괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)|LV.2|60058|[Sonny](Programmers/50001-100000/60058_sonny.cpp)|[]()|[]()|
+|[수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|LV.2|67257|[Sonny](Programmers/50001-100000/67257_sonny.cpp)|[]()|[]()|
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|LV.2|68645|[Sonny](Programmers/50001-100000/68645_sonny.cpp)|[]()|[]()|
 |[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)|LV.2|68936|[Sonny](Programmers/50001-100000/68936_sonny.cpp)|[]()|[]()|
 |[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|LV.2|70129|[]()|[]()|[DANA](Programmers/50001-100000/70129_DANA.cpp)|
@@ -99,6 +101,8 @@
 
 |문제 이름|LV|문제번호|1|2|3|해설|
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|
+|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|LV.1|118666|[Sonny](Programmers/100001-150000/118666_sonny.cpp)|[]()|[]()|
+|[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|LV.2|131127|[Sonny](Programmers/100001-150000/131127_sonny.cpp)|[]()|[]()|
 |[숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|LV.1|131128|[Sonny](Programmers/100001-150000/131128_sonny.cpp)|[]()|[]()|
 |[등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)|LV.3|133500|[Sonny](Programmers/100001-150000/133500_sonny.cpp)|[]()|[]()|
 |[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|LV.2|138476|[Sonny](Programmers/100001-150000/138476_sonny.cpp)|[]()|[]()|
@@ -112,12 +116,14 @@
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|
 |[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|LV.2|150369|[Sonny](Programmers/150001-200000/150369_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150369_DANA.cpp)|
 |[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|LV.1|150370|[Sonny](Programmers/150001-200000/150370_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150370_DANA.cpp)|
+|[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|LV.2|154538|[]()|[]()|[DANA](Programmers/150001-200000/154538_DANA.cpp)|
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|LV.2|154539|[]()|[]()|[DANA](Programmers/150001-200000/154539_DANA.cpp)|
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|LV.2|154540|[]()|[]()|[DANA](Programmers/150001-200000/154540_DANA.cpp)|
 |[호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|LV.2|155651|[Sonny](Programmers/150001-200000/155651_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/155651_DANA.cpp)|
-|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|LV.2|159993|[]()|[]()|[DANA](Programmers/150001-200000/159993_DANA.cpp)|
+|[미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|LV.2|159993|[Sonny](Programmers/150001-200000/159993_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/159993_DANA.cpp)|
 |[혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|LV.1|160585|[Sonny]()|[]()|[DANA](Programmers/150001-200000/160585_DANA.cpp)|
 |[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|LV.1|161990|[Sonny](Programmers/150001-200000/161990_sonny.cpp)|[]()|[]()|
+|[리코젯 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|LV.2|169199|[Sonny](Programmers/150001-200000/169199_sonny.cpp)|[]()|[]()|
 |[과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|LV.2|176962|[]()|[]()|[DANA](Programmers/150001-200000/176962_DANA.cpp)|
 
 
