@@ -116,6 +116,7 @@
 |:----|:-:|:-:|:-:|:-:|:-:|:-:|
 |[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|LV.2|150369|[Sonny](Programmers/150001-200000/150369_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150369_DANA.cpp)|
 |[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|LV.1|150370|[Sonny](Programmers/150001-200000/150370_sonny.cpp)|[]()|[DANA](Programmers/150001-200000/150370_DANA.cpp)|
+|[시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|LV.2|152996|[]()|[]()|[DANA](Programmers/150001-200000/152996_DANA.cpp)|
 |[숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|LV.2|154538|[]()|[]()|[DANA](Programmers/150001-200000/154538_DANA.cpp)|
 |[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|LV.2|154539|[]()|[]()|[DANA](Programmers/150001-200000/154539_DANA.cpp)|
 |[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|LV.2|154540|[]()|[]()|[DANA](Programmers/150001-200000/154540_DANA.cpp)|
