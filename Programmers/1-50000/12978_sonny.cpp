@@ -1,6 +1,15 @@
 // 12978 : 배달 Lv2
 // 플로이드와샬
 // DFS로도 가능
+// 함수로 2차원 배열 반환하는 방법
+
+// typedef 쓰는 법
+// typedef 타입 원하는이름
+// typedef int 4바이트
+// typedef int(*td)[51] : int배열 * 51줄 -> 2차원 배열의 이름은 td
+
+// 2차원 배열을 특정값으로 채우기
+// fill(&town[0][0], &town[50][50], INF);
 
 #include <iostream>
 #include <vector>
