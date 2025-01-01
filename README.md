@@ -105,7 +105,7 @@
 |[할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|LV.2|131127|[Sonny](Programmers/100001-150000/131127_sonny.cpp)|[]()|[]()|
 |[숫자 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|LV.1|131128|[Sonny](Programmers/100001-150000/131128_sonny.cpp)|[]()|[]()|
 |[등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)|LV.3|133500|[Sonny](Programmers/100001-150000/133500_sonny.cpp)|[]()|[]()|
-|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|LV.2|138476|[Sonny](Programmers/100001-150000/138476_sonny.cpp)|[]()|[]()|
+|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|LV.2|138476|[Sonny](Programmers/100001-150000/138476_sonny.cpp)|[]()|[DANA](Programmers/100001-150000/138476_DANA.cpp)|[✅︎](https://dana3711.tistory.com/138)|
 |[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|LV.2|142085|[Sonny](Programmers/100001-150000/142085_sonny.cpp)|[]()|[DANA](Programmers/100001-150000/142085_DANA.cpp)|
 |[테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|LV.2|147354|[Sonny](Programmers/100001-150000/147354_sonny.cpp)|[]()|[DANA](Programmers/100001-150000/147354_DANA.cpp)|[✅︎](https://dana3711.tistory.com/137)|
 |[마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|LV.2|148653|[]()|[]()|[DANA](Programmers/100001-150000/148653_DANA.cpp)|[✅︎](https://dana3711.tistory.com/136)|
